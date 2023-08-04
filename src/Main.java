@@ -17,6 +17,7 @@ public class Main {
                 hasil.add(numbers[i]);
             }
         }
+        System.out.println("Angka yang terduplikasi adalah : ");
         System.out.println(hasil);
     }
 
